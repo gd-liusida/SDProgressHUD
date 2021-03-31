@@ -1,6 +1,0 @@
-use_frameworks!
-target 'SDProgressHUD_Tests' do
-  pod 'SDProgressHUD', :path => '../'
-  
-  
-end

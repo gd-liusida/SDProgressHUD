@@ -9,14 +9,21 @@
     "file": "LICENSE"
   },
   "authors": {
-    "gd-liusida": "yklsdq@163.com"
+    "gd-liusida": "1163149842@qq.com"
   },
   "source": {
     "git": "https://github.com/gd-liusida/SDProgressHUD.git",
     "tag": "0.1.0"
   },
+  "swift_versions": "5.0",
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "SDProgressHUD/Classes/**/*"
+  "source_files": "SDProgressHUD/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  },
+  "swift_version": "5.0"
 }

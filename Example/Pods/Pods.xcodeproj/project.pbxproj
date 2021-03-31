@@ -28,28 +28,28 @@
 
 /* Begin PBXFileReference section */
 		03BA0E366063B23CFB489A0CB5EA0DBD /* SDProgressHUD-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SDProgressHUD-Info.plist"; sourceTree = "<group>"; };
-		0E40B44E1C59E75244D9C6CE34E5FDBD /* SDProgressHUD.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SDProgressHUD.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		0E40B44E1C59E75244D9C6CE34E5FDBD /* SDProgressHUD.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SDProgressHUD.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		123A0998A340B23C4E03291D499BE859 /* Pods-SDProgressHUD_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SDProgressHUD_Tests-Info.plist"; sourceTree = "<group>"; };
 		1E74B977957898CCFB9C586844FB6265 /* SDProgressHUD.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDProgressHUD.release.xcconfig; sourceTree = "<group>"; };
 		22EE2036B1407553846D7D97FBACEBA2 /* SDProgressHUD.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDProgressHUD.debug.xcconfig; sourceTree = "<group>"; };
-		260DA09DC6821C1EC0B434F4EEC15FD3 /* Pods_SDProgressHUD_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SDProgressHUD_Tests.framework; path = "Pods-SDProgressHUD_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		260DA09DC6821C1EC0B434F4EEC15FD3 /* Pods_SDProgressHUD_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SDProgressHUD_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2680726D1CA6AE0CD429137CADB02F4F /* Pods-SDProgressHUD_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SDProgressHUD_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2E99EEF6818937E2CCB78C38DF610044 /* Pods-SDProgressHUD_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SDProgressHUD_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4818C1B9CE5FF3A03F711C828D480409 /* SDProgressHUD.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SDProgressHUD.modulemap; sourceTree = "<group>"; };
 		63225222318245D7918C96E6D7571F33 /* Pods-SDProgressHUD_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SDProgressHUD_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6B6B0724B2115B254AA014CD2DDB153B /* Pods-SDProgressHUD_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SDProgressHUD_Tests.modulemap"; sourceTree = "<group>"; };
-		6EADDBFA5D23DC30D8EEFB3726181E78 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		6EADDBFA5D23DC30D8EEFB3726181E78 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		784CD588940F44C5BFE688DB53EC955D /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = SDProgressHUD/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		850DB03980D742CFB44D02DC0370AD4C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		850DB03980D742CFB44D02DC0370AD4C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		9937FB437953B9E3AAB07FC9214DC9A3 /* Pods-SDProgressHUD_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SDProgressHUD_Tests-umbrella.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A8BAFEF492FFF7FFA17E0B1115B0EC55 /* Pods-SDProgressHUD_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SDProgressHUD_Tests-dummy.m"; sourceTree = "<group>"; };
 		BA22CBFD0E5A2D68A42D420812327318 /* Pods-SDProgressHUD_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SDProgressHUD_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		DC241073C8F7A1C3176C8993013F0652 /* SDProgressHUD-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDProgressHUD-prefix.pch"; sourceTree = "<group>"; };
 		EB97DCD516372D95F0894C3ECD0EF42B /* SDProgressHUD-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SDProgressHUD-dummy.m"; sourceTree = "<group>"; };
 		EDD238BE00EFF935358A64A0FA3C91DB /* SDProgressHUD-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDProgressHUD-umbrella.h"; sourceTree = "<group>"; };
-		F2E4425165803368DE24044976985852 /* SDProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDProgressHUD.framework; path = SDProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2E4425165803368DE24044976985852 /* SDProgressHUD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDProgressHUD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F778BCAB74F4E1DC37C9BC6863AF25ED /* Pods-SDProgressHUD_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SDProgressHUD_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -400,8 +400,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
